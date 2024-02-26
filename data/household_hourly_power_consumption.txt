@@ -11,7 +11,7 @@
 ## Se ha agregado los datos por hora, usando promedios de las variables eléctricas.
 ##  Mathieu Kessler mathieu.kessler@upct.es, febrero 2015.---------------------
 ## -----------------------------------------------------------------------------
-"date_hour";"global_active_power";"global_reactive_power";"voltage";"vlobal_intensity";"sub_metering_1";"sub_metering_2";"sub_metering_3"
+"date_hour";"global_active_power";"global_reactive_power";"voltage";"global_intensity";"sub_metering_1";"sub_metering_2";"sub_metering_3"
 2006-12-16 17:00:00;4.22288888888889;0.229;234.643888888889;18.1;0;0.527777777777778;16.8611111111111
 2006-12-16 18:00:00;3.6322;0.0800333333333333;234.580166666667;15.6;0;6.71666666666667;16.8666666666667
 2006-12-16 19:00:00;3.40023333333333;0.0852333333333333;233.2325;14.5033333333333;0;1.43333333333333;16.6833333333333
